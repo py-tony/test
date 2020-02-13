@@ -1,0 +1,37 @@
+#main-header{
+  display: flex;
+  width:900px;
+  height:400px;
+
+
+}
+
+#main-header{
+  background-color: white;
+}
+
+
+ul{
+  list-style: none;
+  display: flex;
+  padding-top: 50%;
+  justify-content: space-around;
+  width: 50%;
+}
+li{
+  text-decoration-color: ;
+
+}
+
+nav{
+  width: 100%;
+}
+a{
+  color: black;
+  background-color: rgb(200, 50, 0);
+
+}
+.main-logo{
+  
+
+}
